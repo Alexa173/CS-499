@@ -4,7 +4,7 @@
 ## Table of Contents
 1. [Overview](https://github.com/Alexa173/CS-499/blob/main/README.md#1-overview)
 2. [Self-Assessment](https://github.com/Alexa173/CS-499/blob/main/README.md#2-self-assessment)
-3. Code Review
+3. [Code Review](https://github.com/Alexa173/CS-499/blob/main/README.md#3-code-review)
 4. Software Design and Engineering 
 5. Enhancement One Narrative
 6. Algorithms and Datastructures 
@@ -22,4 +22,6 @@ Mission Statement:
 This ePortfolio serves as a testament to my relentless pursuit of mastery and my steadfast belief in the transformative power of technology. Through a combination of technical acumen, creative ingenuity, and ethical responsibility, I endeavor to develop solutions that not only push the boundaries of possibility but also uphold the principles of integrity, inclusivity, and social responsibility.
 
 ### 2. Self-Assessment
+
+### 3. Code Review
 
