@@ -3,7 +3,7 @@
 
 ## Table of Contents
 1. [Overview](https://github.com/Alexa173/CS-499/blob/main/README.md#1-overview)
-2. [Self-Assessment](https://github.com/Alexa173/CS-499/blob/main/README.md#1-overview)
+2. [Self-Assessment](https://github.com/Alexa173/CS-499/blob/main/README.md#2-self-assessment)
 3. Code Review
 4. Software Design and Engineering 
 5. Enhancement One Narrative
