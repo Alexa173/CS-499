@@ -9,7 +9,8 @@
    - [Collaborating in a Team Environment](https://github.com/Alexa173/CS-499/edit/main/README.md#collaborating-in-a-team-environment)
    - [Communicating with Stakeholders](https://github.com/Alexa173/CS-499/edit/main/README.md#communicating-with-stakeholders)
    - [Data structures and Algorithms](https://github.com/Alexa173/CS-499/edit/main/README.md#data-structures-and-algorithms)
-   - []()
+   - [Software Engineering and Databases](https://github.com/Alexa173/CS-499/edit/main/README.md#software-engineering-and-databases)
+   - [Security](https://github.com/Alexa173/CS-499/edit/main/README.md#security)
 4. [Code Review](https://github.com/Alexa173/CS-499/blob/main/README.md#3-code-review)
 5. Software Design and Engineering
 6. Enhancement One Narrative
