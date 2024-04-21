@@ -23,5 +23,17 @@ This ePortfolio serves as a testament to my relentless pursuit of mastery and my
 
 ### 2. Self-Assessment
 
+Completing coursework for an ePortfolio has been invaluable in showcasing my strengths, honing professional goals, and refining values essential for success in the computer science field. By documenting my projects, achievements, and reflections, I've demonstrated proficiency, adaptability, and a growth mindset, essential traits in this dynamic industry. This process has not only solidified my technical skills but also enhanced my communication, collaboration, and problem-solving abilities, making me a well-rounded candidate poised for success in the computer science realm.
+
+I have programmed 3D pyramid with texture using OpenGL. I have also worked with SQL and making queries to a database. I learned how to code in python, C++, and Java. I have recently began learning Javascript. I am the most proficient in Java, but I am passionate in continuing my learning in Python. I also have experience in Android application programming. 
+
+In a team environment, I excel at collaborating closely with teammates, leveraging each member's strengths to achieve our common goals efficiently. Communication with stakeholders is crucial, and I prioritize clear and transparent communication to ensure everyone is informed and aligned.
+
+My expertise in data structures and algorithms enables me to design efficient and scalable solutions to complex problems, ensuring optimal performance and resource utilization. In software engineering, I adhere to best practices and methodologies to deliver high-quality, maintainable code that meets both functional and non-functional requirements.
+
+With a strong background in database management, I ensure data integrity, availability, and security, implementing robust database designs and efficient query optimization techniques. Security is paramount, and I proactively address potential vulnerabilities, implementing layers of defense to safeguard against threats and protect sensitive information.
+![image](https://github.com/Alexa173/CS-499/assets/131563077/55ec90b6-ca38-4992-a291-abb8c77e4750)
+
+
 ### 3. Code Review
 
