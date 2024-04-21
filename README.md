@@ -23,12 +23,17 @@ This ePortfolio serves as a testament to my relentless pursuit of mastery and my
 
 ### 2. Self-Assessment
 
-Completing coursework for an ePortfolio has been invaluable in showcasing my strengths, honing professional goals, and refining values essential for success in the computer science field. By documenting my projects, achievements, and reflections, I've demonstrated proficiency, adaptability, and a growth mindset, essential traits in this dynamic industry. This process has not only solidified my technical skills but also enhanced my communication, collaboration, and problem-solving abilities, making me a well-rounded candidate poised for success in the computer science realm.
+Completing coursework for an ePortfolio has been invaluable in showcasing my strengths, honing professional goals, and refining values essential for success in the computer science field. By documenting my projects, achievements, and reflections, I've demonstrated proficiency, adaptability, and a growth mindset, essential traits in this dynamic industry. This process has not only solidified my technical skills, but also enhanced my communication, collaboration, and problem-solving abilities, making me a well-rounded candidate poised for success in the computer science realm.
 
-I have programmed 3D pyramid with texture using OpenGL. I have also worked with SQL and making queries to a database. I learned how to code in python, C++, and Java. I have recently began learning Javascript. I am the most proficient in Java, but I am passionate in continuing my learning in Python. I also have experience in Android application programming. 
+My repertoire extends beyond the projects highlighted in this ePortfolio. Among my endeavors, I have programmed a 3D pyramid with textured rendering utilizing OpenGL. Additionally, I possess proficiency in SQL, having executed various queries on database systems. I have acquired proficiency in Python programming and have recently embarked on a journey to master JavaScript. While my expertise predominantly lies in Java, I remain fervently committed to advancing my skills in Python. Furthermore, I have engaged in Android application development and acquired knowledge in JUnit testing and system security measures. Notably, I have gained competence in training AI models through Jupyter Notebook.
 
-In a team environment, I excel at collaborating closely with teammates, leveraging each member's strengths to achieve our common goals efficiently. Communication with stakeholders is crucial, and I prioritize clear and transparent communication to ensure everyone is informed and aligned.
+Collaborating in a Team Environment
+In this ePortfolio, I have included a Code Review. The Code Review demonstrates my ability to collaborate with a team. Code Reviews are an opportunity for developers to work together in finding errors, missing components, or insecurities in the code. 
 
+Communicating with Stakeholders
+This Self-Assessment is the initial step in engaging with stakeholders. It's a vital part of my ePortfolio, which I can use to demonstrate my capabilities to them. Essentially, it's about laying the groundwork for sharing my skills and aspirations. Since it's an integral component of my ePortfolio, it significantly enhances what I can showcase to stakeholders, providing them with a clearer understanding of my strengths. 
+
+Datastructures and Algorithms
 My expertise in data structures and algorithms enables me to design efficient and scalable solutions to complex problems, ensuring optimal performance and resource utilization. In software engineering, I adhere to best practices and methodologies to deliver high-quality, maintainable code that meets both functional and non-functional requirements.
 
 With a strong background in database management, I ensure data integrity, availability, and security, implementing robust database designs and efficient query optimization techniques. Security is paramount, and I proactively address potential vulnerabilities, implementing layers of defense to safeguard against threats and protect sensitive information.
