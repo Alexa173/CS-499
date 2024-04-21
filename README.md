@@ -13,8 +13,8 @@
    - [Security](https://github.com/Alexa173/CS-499/edit/main/README.md#security)
 3. [Code Review](https://github.com/Alexa173/CS-499/blob/main/README.md#3-code-review)
 4. [Software Design and Engineering]()
-    - [Artifact One]()
-    - [Enhancement One Narrative]()
+    - [Artifact One](https://github.com/Alexa173/CS-499/blob/main/README.md#artifact-one)
+    - [Enhancement One Narrative](https://github.com/Alexa173/CS-499/edit/main/README.md#narrative)
 5. Algorithms and Datastructures
 7. Enhancement Two Narrative
 8. Databases
@@ -66,6 +66,7 @@ This section covers Artifact One. This is the second milestone. Here is a link t
 
 [Artifact One](https://github.com/Alexa173/CS-499/tree/main/Artifact%20One)
 
+#### Narrative
 In my narrative, I discuss the enhancement process. You can access this below. This will require you to download in order to view.
 
 [Milestone Two Narrative](https://github.com/Alexa173/CS-499/blob/main/Milestone%20Two%20Narrative.docx)
