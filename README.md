@@ -60,7 +60,7 @@ This section contais my code review video. This is the first milestone. Here is 
 
 In this narrative, I reflect on the process of making a code review.
 
-[Code Review Narrative]()
+[Code Review Narrative](https://github.com/Alexa173/CS-499/tree/main/Artifact%20One)
 
 ### 4. Software Design and Engineering
 
