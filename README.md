@@ -59,9 +59,11 @@ This section contais my code review video. This is the first milestone. Here is 
 [Code Review Video]()
 
 In this narrative, I reflect on the process of making a code review.
+
 [Code Review Narrative]()
 
 ### 4. Software Design and Engineering
 
-This section covers Artifact One. This is the second milestone. H
+This section covers Artifact One. This is the second milestone. Here is a link to the project. 
+[Artifact One]()
 
