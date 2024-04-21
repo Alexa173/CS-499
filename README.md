@@ -30,10 +30,10 @@ My repertoire extends beyond the projects highlighted in this ePortfolio. Among 
 #### **Collaborating in a Team Environment**
 In this ePortfolio, I have included a Code Review. The Code Review demonstrates my ability to collaborate with a team. Code Reviews are an opportunity for developers to work together in finding errors, missing components, or insecurities in the code. 
 
-**Communicating with Stakeholders**
+#### **Communicating with Stakeholders**
 This Self-Assessment is the initial step in engaging with stakeholders. It's a vital part of my ePortfolio, which I can use to demonstrate my capabilities to them. Essentially, it's about laying the groundwork for sharing my skills and aspirations. Since it's an integral component of my ePortfolio, it significantly enhances what I can showcase to stakeholders, providing them with a clearer understanding of my strengths. 
 
-**Datastructures and Algorithms**
+#### n**Datastructures and Algorithms**
 My expertise in data structures and algorithms enables me to design efficient and scalable solutions to complex problems, ensuring optimal performance and resource utilization. In software engineering, I adhere to best practices and methodologies to deliver high-quality, maintainable code that meets both functional and non-functional requirements.
 
 With a strong background in database management, I ensure data integrity, availability, and security, implementing robust database designs and efficient query optimization techniques. Security is paramount, and I proactively address potential vulnerabilities, implementing layers of defense to safeguard against threats and protect sensitive information.
