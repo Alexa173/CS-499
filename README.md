@@ -54,6 +54,14 @@ Each of these artifacts aligns with and effectively addresses the five course ou
 The following sections contain Artifact One, Two, and Three. Following each artifact will be a narrative reflecting on the enhancement process. Each section will contain a link to its respective project. 
 
 ### 3. Code Review
+This section contais my code review video. This is the first milestone. Here is a link to the video.
+
+[Code Review Video]()
+
+In this narrative, I reflect on the process of making a code review.
+[Code Review Narrative]()
 
 ### 4. Software Design and Engineering
+
+This section covers Artifact One. This is the second milestone. H
 
