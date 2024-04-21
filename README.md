@@ -11,13 +11,13 @@
    - [Data structures and Algorithms](https://github.com/Alexa173/CS-499/edit/main/README.md#data-structures-and-algorithms)
    - [Software Engineering and Databases](https://github.com/Alexa173/CS-499/edit/main/README.md#software-engineering-and-databases)
    - [Security](https://github.com/Alexa173/CS-499/edit/main/README.md#security)
-4. [Code Review](https://github.com/Alexa173/CS-499/blob/main/README.md#3-code-review)
-5. Software Design and Engineering
-6. Enhancement One Narrative
-7. Algorithms and Datastructures
-8. Enhancement Two Narrative
-9. Databases
-10. Enhancement Three Narrative
+3. [Code Review](https://github.com/Alexa173/CS-499/blob/main/README.md#3-code-review)
+4. [Software Design and Engineering]()
+5. Enhancement One Narrative
+6. Algorithms and Datastructures
+7. Enhancement Two Narrative
+8. Databases
+9. Enhancement Three Narrative
 
 ### 1. Overview
 It is with great pleasure that I extend a warm welcome to you as you embark on a journey through my digital repository, encapsulating my academic and professional pursuits in the field of computer science. Within these virtual confines, you will find a meticulously curated collection of projects, reflections, and insights that underscore my dedication to advancing the frontiers of technological innovation.
@@ -54,4 +54,6 @@ Each of these artifacts aligns with and effectively addresses the five course ou
 The following sections contain Artifact One, Two, and Three. Following each artifact will be a narrative reflecting on the enhancement process. Each section will contain a link to its respective project. 
 
 ### 3. Code Review
+
+### 4. Software Design and Engineering
 
