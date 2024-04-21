@@ -64,7 +64,7 @@ This section covers Artifact One. This is the second milestone. Here is a link t
 
 [Artifact One](https://github.com/Alexa173/CS-499/tree/main/Artifact%20One)
 
-In my narrative, I discuss the enhancement process. You can access this below
+In my narrative, I discuss the enhancement process. You can access this below. This will require you to download in order to view.
 
 [Milestone Two Narrative]()
 
