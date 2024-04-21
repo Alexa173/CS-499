@@ -33,10 +33,16 @@ In this ePortfolio, I have included a Code Review. The Code Review demonstrates 
 #### **Communicating with Stakeholders**
 This Self-Assessment is the initial step in engaging with stakeholders. It's a vital part of my ePortfolio, which I can use to demonstrate my capabilities to them. Essentially, it's about laying the groundwork for sharing my skills and aspirations. Since it's an integral component of my ePortfolio, it significantly enhances what I can showcase to stakeholders, providing them with a clearer understanding of my strengths. 
 
-#### **Datastructures and Algorithms**
-My expertise in data structures and algorithms enables me to design efficient and scalable solutions to complex problems, ensuring optimal performance and resource utilization. In software engineering, I adhere to best practices and methodologies to deliver high-quality, maintainable code that meets both functional and non-functional requirements.
+#### **Data structures and Algorithms**
+Artifact Two offers insight into my proficiency with data structures and algorithms. Within this artifact, I demonstrate the application of two sorting algorithms: selection sort and quicksort, to efficiently organize data sets. Through this showcase, I illustrate my understanding of fundamental algorithms and their practical implementation in sorting tasks.
 
-With a strong background in database management, I ensure data integrity, availability, and security, implementing robust database designs and efficient query optimization techniques. Security is paramount, and I proactively address potential vulnerabilities, implementing layers of defense to safeguard against threats and protect sensitive information.
+#### **Software Engineering and Databases**
+Artifact One illustrates my understanding of software engineering. Artifact Three displays my knowledge in Databases. Artifact One provides a comprehensive view of my grasp of software engineering principles. Within this artifact, I showcase my ability to design, develop, and manage software projects effectively. Through Artifact Three, I offer a demonstration of my expertise in database management. I showcase my knowledge of database technologies, query languages, and data modeling techniques.
+
+#### **Security**
+In Artifact Three, I develop a security mindset by incorporating a RESTful API that retrieves data from database stored in MongoDB. A RESTful API provides a small layer of security by allowing authentication mechanisms to prevent server hijackings. 
+Each of these artifacts aligns with and effectively addresses the five course outcomes established for my Capstone project. These outcomes serve as benchmarks to evaluate the depth and breadth of my learning and practical application of skills throughout the course.
+The following sections contain Artifact One, Two, and Three. Following each artifact will be a narrative reflecting on the enhancement process. Each section will contain a link to its respective project. 
 
 ### 3. Code Review
 
