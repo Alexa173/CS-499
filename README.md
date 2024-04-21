@@ -15,8 +15,7 @@
 ### 1. Overview
 It is with great pleasure that I extend a warm welcome to you as you embark on a journey through my digital repository, encapsulating my academic and professional pursuits in the field of computer science. Within these virtual confines, you will find a meticulously curated collection of projects, reflections, and insights that underscore my dedication to advancing the frontiers of technological innovation.
 
-Introduction:
-'''
+#### Introduction:
 My name is Alexa Szlykowicz, and I am honored to present this ePortfolio as a testament to my unwavering commitment to excellence in computer science. With a fervent passion for leveraging technology to address real-world challenges, I have dedicated myself to honing my skills, expanding my knowledge, and making meaningful contributions to the ever-evolving landscape of computing.
 
 Mission Statement:
