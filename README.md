@@ -18,7 +18,7 @@ It is with great pleasure that I extend a warm welcome to you as you embark on a
 #### Introduction:
 My name is Alexa Szlykowicz, and I am honored to present this ePortfolio as a testament to my unwavering commitment to excellence in computer science. With a fervent passion for leveraging technology to address real-world challenges, I have dedicated myself to honing my skills, expanding my knowledge, and making meaningful contributions to the ever-evolving landscape of computing.
 
-####Mission Statement:
+#### Mission Statement:
 This ePortfolio serves as a testament to my relentless pursuit of mastery and my steadfast belief in the transformative power of technology. Through a combination of technical acumen, creative ingenuity, and ethical responsibility, I endeavor to develop solutions that not only push the boundaries of possibility but also uphold the principles of integrity, inclusivity, and social responsibility.
 
 ### 2. Self-Assessment
@@ -27,7 +27,7 @@ Completing coursework for an ePortfolio has been invaluable in showcasing my str
 
 My repertoire extends beyond the projects highlighted in this ePortfolio. Among my endeavors, I have programmed a 3D pyramid with textured rendering utilizing OpenGL. Additionally, I possess proficiency in SQL, having executed various queries on database systems. I have acquired proficiency in Python programming and have recently embarked on a journey to master JavaScript. While my expertise predominantly lies in Java, I remain fervently committed to advancing my skills in Python. Furthermore, I have engaged in Android application development and acquired knowledge in JUnit testing and system security measures. Notably, I have gained competence in training AI models through Jupyter Notebook.
 
-####**Collaborating in a Team Environment**
+#### **Collaborating in a Team Environment**
 In this ePortfolio, I have included a Code Review. The Code Review demonstrates my ability to collaborate with a team. Code Reviews are an opportunity for developers to work together in finding errors, missing components, or insecurities in the code. 
 
 **Communicating with Stakeholders**
