@@ -32,8 +32,6 @@ In a team environment, I excel at collaborating closely with teammates, leveragi
 My expertise in data structures and algorithms enables me to design efficient and scalable solutions to complex problems, ensuring optimal performance and resource utilization. In software engineering, I adhere to best practices and methodologies to deliver high-quality, maintainable code that meets both functional and non-functional requirements.
 
 With a strong background in database management, I ensure data integrity, availability, and security, implementing robust database designs and efficient query optimization techniques. Security is paramount, and I proactively address potential vulnerabilities, implementing layers of defense to safeguard against threats and protect sensitive information.
-![image](https://github.com/Alexa173/CS-499/assets/131563077/55ec90b6-ca38-4992-a291-abb8c77e4750)
-
 
 ### 3. Code Review
 
