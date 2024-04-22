@@ -72,7 +72,7 @@ In my narrative, I discuss the enhancement process. You can access this below. T
 
 [Milestone Two Narrative](https://github.com/Alexa173/CS-499/blob/main/Milestone%20Two%20Narrative.docx)
 
-### 5. Algorithms and Datastructures
+### 5. Algorithms and Data structures
 
 #### Artifact Two
 
@@ -80,4 +80,4 @@ In my narrative, I discuss the enhancement process. You can access this below. T
 
 #### Narrative
 
-[Milestone Two Narratice]()
+[Milestone Two Narrative]()
