@@ -88,8 +88,8 @@ In my narrative, I discuss the enhancement process. You can access this below. T
 
 #### Artifact Three
 
-[Artifact Three]()
+[Artifact Three](https://github.com/Alexa173/CS-499/tree/main/Artifact%20Three)
 
 #### Narrative
 
-[Milestone Four Narrative]()
+[Milestone Four Narrative](https://github.com/Alexa173/CS-499/blob/main/Milestone%20Four%20Narrative.docx)
