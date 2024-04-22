@@ -65,7 +65,18 @@ This section contais my code review video. This is the first milestone. Here is 
 ### 4. Software Design and Engineering
 
 #### Artifact One
-This section covers Artifact One. This is the second milestone. Here is a link to the project. 
+
+This section covers Artifact One. This is the second milestone and our first enhancement. This project is align with the course outcome:
+
+- The enhancement will be aligned with demonstrating the ability to use well-founded and innovative techniques skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
+
+Enhancements
+
+This artifact is a text-based game that was originally developed in Python. The Python version uses a dictionary to create a map of neighboring planets that the player must visit while collecting its artifacts. The Java version uses nested HashMaps to create the map. The player must enter the correct command to be able to move between the rooms and collect items. I also included nesessary checks to prevent the progarm from crashing when the user enters invalid informaton. Here is a list of enhancements:
+
+1. 
+
+Here is a link to the project. 
 
 [Artifact One](https://github.com/Alexa173/CS-499/tree/main/Artifact%20One)
 
