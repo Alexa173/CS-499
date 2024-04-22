@@ -82,7 +82,7 @@ This section covers Artifact One. This is the second milestone and our first enh
 
 #### Enhancements
 
-This artifact is a text-based game that was originally developed in Python. The Python version uses a dictionary to create a map of neighboring planets that the player must visit while collecting its artifacts. The Java version uses nested HashMaps to create the map. The player must enter the correct command to be able to move between the rooms and collect items. I also included nesessary checks to prevent the progarm from crashing when the user enters invalid informaton. Here is a list of enhancements:
+This artifact is a text-based game that was originally developed in Python. The Python version uses a dictionary to create a map of neighboring planets that the player must visit while collecting its artifacts. The Java version uses nested HashMaps to create the map. The player must enter the correct command to be able to move between the rooms and collect items. I also included nesessary checks to prevent the program from crashing when the user enters invalid information. Here is a list of enhancements:
 
 1. Better error message display (Python on the left, Java on the right)
    
