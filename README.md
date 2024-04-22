@@ -108,9 +108,29 @@ In my narrative, I discuss the enhancement process. You can access this below. T
 
 #### Artifact Two
 
+This section covers Article Two. This is the third milestone and the second enhancement. This project is align with the course outcome:
+
+- One out come that this enhancement will be aligned with is being able to design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.
+
+This current code implements a menu that allows a user to insert a bid from a csv file, view the contents of the csv file, and to perform a selection sort on that dataset. I enhanced this project by improving the efficiency of the software. I did this by adding a quicksort algorithm option to the menu. The current use of selection sort yields a O(n^2) performance. Adding a quicksort option should yield a O (n log(n)) performance. Here is a list of enhancements:
+
+Enhancements: 
+
+1. Use the quicksort method to improve time complexity.
+
+   <img width="276" alt="selection sort" src="https://github.com/Alexa173/CS-499/assets/131563077/06e6e9ee-f4b9-4911-bce6-ad202b811caa">
+
+Final Product:
+
+   <img width="230" alt="quicksort" src="https://github.com/Alexa173/CS-499/assets/131563077/51b9aaa5-88a4-4dbe-a67d-a4b96ceeec33">
+
+Here is the link to the project
+
 [Artifact Two](https://github.com/Alexa173/CS-499/tree/main/Artifact%20Two)
 
 #### Narrative
+
+In my narrative, I discuss the enhancement process. You can access this below. This will require you to download in order to view.
 
 [Milestone Three Narrative](https://github.com/Alexa173/CS-499/blob/main/Milestone%20Three%20Narrative.docx)
 
