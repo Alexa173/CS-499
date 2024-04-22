@@ -14,12 +14,14 @@
 3. [Code Review](https://github.com/Alexa173/CS-499/blob/main/README.md#3-code-review)
 4. [Software Design and Engineering](https://github.com/Alexa173/CS-499#4-software-design-and-engineering)
     - [Artifact One](https://github.com/Alexa173/CS-499/blob/main/README.md#artifact-one)
-    - [Milestone Two Narrative](https://github.com/Alexa173/CS-499?tab=readme-ov-file#narrative-1)
+    - [Milestone Two Narrative](https://github.com/Alexa173/CS-499/tree/main#narrative)
 5. [Algorithms and Datastructures](https://github.com/Alexa173/CS-499#5-algorithms-and-datastructures)
     - [Artifact Two](https://github.com/Alexa173/CS-499?tab=readme-ov-file#artifact-two)
-    - [Milestone Three]()
-6. Databases
-9. Enhancement Three Narrative
+    - [Milestone Three Narrative](https://github.com/Alexa173/CS-499/tree/main#narrative-1)
+6. [Databases]()
+    - [Artifact Three]()
+    - [Milestone Four Narrative]()
+
 
 ### 1. Overview
 It is with great pleasure that I extend a warm welcome to you as you embark on a journey through my digital repository, encapsulating my academic and professional pursuits in the field of computer science. Within these virtual confines, you will find a meticulously curated collection of projects, reflections, and insights that underscore my dedication to advancing the frontiers of technological innovation.
