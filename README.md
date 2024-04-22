@@ -14,12 +14,18 @@
 3. [Code Review](https://github.com/Alexa173/CS-499/blob/main/README.md#3-code-review)
 4. [Software Design and Engineering](https://github.com/Alexa173/CS-499#4-software-design-and-engineering)
     - [Artifact One](https://github.com/Alexa173/CS-499/blob/main/README.md#artifact-one)
+    - [Enhancement]()
+    - [Final Product]()
     - [Milestone Two Narrative](https://github.com/Alexa173/CS-499/tree/main#narrative)
 5. [Algorithms and Datastructures](https://github.com/Alexa173/CS-499#5-algorithms-and-datastructures)
     - [Artifact Two](https://github.com/Alexa173/CS-499?tab=readme-ov-file#artifact-two)
+    - [Enhancement]()
+    - [Final Product]()
     - [Milestone Three Narrative](https://github.com/Alexa173/CS-499/tree/main#narrative-1)
 6. [Databases](https://github.com/Alexa173/CS-499/tree/main?tab=readme-ov-file#6-databases)
     - [Artifact Three](https://github.com/Alexa173/CS-499/tree/main?tab=readme-ov-file#artifact-three)
+    - [Enhancement]()
+    - [Final Product]()
     - [Milestone Four Narrative](https://github.com/Alexa173/CS-499/tree/main?tab=readme-ov-file#narrative-2)
 
 
@@ -70,7 +76,7 @@ This section covers Artifact One. This is the second milestone and our first enh
 
 - The enhancement will be aligned with demonstrating the ability to use well-founded and innovative techniques skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 
-Enhancements
+#### Enhancements
 
 This artifact is a text-based game that was originally developed in Python. The Python version uses a dictionary to create a map of neighboring planets that the player must visit while collecting its artifacts. The Java version uses nested HashMaps to create the map. The player must enter the correct command to be able to move between the rooms and collect items. I also included nesessary checks to prevent the progarm from crashing when the user enters invalid informaton. Here is a list of enhancements:
 
@@ -91,7 +97,7 @@ This artifact is a text-based game that was originally developed in Python. The 
    <img width="737" alt="input is less than 2 python" src="https://github.com/Alexa173/CS-499/assets/131563077/bb623e22-fb96-4cbe-8c77-71b4c0629a23">
    <img width="201" alt="input is less than 2 java" src="https://github.com/Alexa173/CS-499/assets/131563077/adcd1934-a70e-446d-9b97-ba1e59ee915d">
 
-Final Product: (Java)
+#### Final Product: (Java)
 
 <img width="593" alt="Screenshot 2024-04-21 at 7 27 25 PM" src="https://github.com/Alexa173/CS-499/assets/131563077/881201ad-9196-4283-9905-14d286a8dfeb">
 
@@ -114,13 +120,13 @@ This section covers Article Two. This is the third milestone and the second enha
 
 This current code implements a menu that allows a user to insert a bid from a csv file, view the contents of the csv file, and to perform a selection sort on that dataset. I enhanced this project by improving the efficiency of the software. I did this by adding a quicksort algorithm option to the menu. The current use of selection sort yields a O(n^2) performance. Adding a quicksort option should yield a O (n log(n)) performance. Here is a list of enhancements:
 
-Enhancements: 
+#### Enhancements: 
 
 1. Use the quicksort method to improve time complexity.
 
    <img width="276" alt="selection sort" src="https://github.com/Alexa173/CS-499/assets/131563077/06e6e9ee-f4b9-4911-bce6-ad202b811caa">
 
-Final Product:
+#### Final Product:
 
    <img width="230" alt="quicksort" src="https://github.com/Alexa173/CS-499/assets/131563077/51b9aaa5-88a4-4dbe-a67d-a4b96ceeec33">
 
