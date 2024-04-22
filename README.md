@@ -14,7 +14,7 @@
 3. [Code Review](https://github.com/Alexa173/CS-499/blob/main/README.md#3-code-review)
 4. [Software Design and Engineering](https://github.com/Alexa173/CS-499#4-software-design-and-engineering)
     - [Artifact One](https://github.com/Alexa173/CS-499/blob/main/README.md#artifact-one)
-    - [Milestone Two Narrative](https://github.com/Alexa173/CS-499/edit/main/README.md#narrative)
+    - [Milestone Two Narrative](https://github.com/Alexa173/CS-499?tab=readme-ov-file#narrative-1)
 5. [Algorithms and Datastructures](https://github.com/Alexa173/CS-499#5-algorithms-and-datastructures)
     - [Artifact Two](https://github.com/Alexa173/CS-499?tab=readme-ov-file#artifact-two)
     - [Milestone Three]()
