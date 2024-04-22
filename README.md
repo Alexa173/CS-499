@@ -152,7 +152,7 @@ This section covers Artifact 3. This is my fourth milestone and the third enhanc
 
 - Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
-Artifact 3 is a single-page application that uses a MEAN stack for develpement. Here, I create a SPA for a ficticious client named Travlr. The original code uses Express and Node are used to build a static SPA. The client makes HTTP requests to fetch static HTML content.  The updated architecture of the Travlr GetAways is based on a MEAN stack for its development. A MEAN stack is composed of a Rest API, JSON files, and a single-page application. Restful API provides a stateless interface for the database. On the customer-facing side of the application, the user enters data or makes a click on the website. In an Angular SPA, there is a collection of URLs that fetch data when prompted by the user. 
+Artifact 3 is a single-page application that uses a MEAN stack for developement. Here, I create a SPA for a ficticious client named Travlr. The original code uses Express and Node are used to build a static SPA. The client makes HTTP requests to fetch static HTML content.  The updated architecture of the Travlr GetAways is based on a MEAN stack for its development. A MEAN stack is composed of a Rest API, JSON files, and a single-page application. Restful API provides a stateless interface for the database. On the customer-facing side of the application, the user enters data or makes a click on the website. In an Angular SPA, there is a collection of URLs that fetch data when prompted by the user. 
 
 Here is what the static HTML page looks like:
 
