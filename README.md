@@ -68,7 +68,7 @@ This section contais my code review video. This is the first milestone. This pro
 
 - Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
 
-Here is a link to the video to watch the video on YouTube.
+Here is a link to watch the video on YouTube.
 
 [Code Review Video](https://youtu.be/DO8NdWT2t10)
 
