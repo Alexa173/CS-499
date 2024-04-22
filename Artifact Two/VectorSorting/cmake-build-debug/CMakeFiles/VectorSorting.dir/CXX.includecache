@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexa/Desktop/1SNHU/CS 300/Assignments/Module 2/VectorSorting/CSVparser.h
+stdexcept
+-
+string
+-
+vector
+-
+list
+-
+sstream
+-
+
+/Users/alexa/Desktop/1SNHU/CS 300/Assignments/Module 2/VectorSorting/VectorSorting.cpp
+algorithm
+-
+iostream
+-
+time.h
+-
+CSVparser.h
+/Users/alexa/Desktop/1SNHU/CS 300/Assignments/Module 2/VectorSorting/CSVparser.h
+
