@@ -9,7 +9,7 @@
    - [Collaborating in a Team Environment](https://github.com/Alexa173/CS-499?tab=readme-ov-file#collaborating-in-a-team-environment)
    - [Communicating with Stakeholders](https://github.com/Alexa173/CS-499?tab=readme-ov-file#communicating-with-stakeholders)
    - [Data structures and Algorithms](https://github.com/Alexa173/CS-499?tab=readme-ov-file#data-structures-and-algorithms)
-   - [Software Engineering and Databases](https://github.com/Alexa173/CS-499/edit/main/README.md#software-engineering-and-databases)
+   - [Software Engineering and Databases](https://github.com/Alexa173/CS-499?tab=readme-ov-file#software-engineering-and-databases)
    - [Security](https://github.com/Alexa173/CS-499?tab=readme-ov-file#security)
 3. [Code Review](https://github.com/Alexa173/CS-499/blob/main/README.md#3-code-review)
 4. [Software Design and Engineering](https://github.com/Alexa173/CS-499#4-software-design-and-engineering)
