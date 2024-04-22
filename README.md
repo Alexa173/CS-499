@@ -12,11 +12,11 @@
    - [Software Engineering and Databases](https://github.com/Alexa173/CS-499/edit/main/README.md#software-engineering-and-databases)
    - [Security](https://github.com/Alexa173/CS-499/edit/main/README.md#security)
 3. [Code Review](https://github.com/Alexa173/CS-499/blob/main/README.md#3-code-review)
-4. [Software Design and Engineering]()
+4. [Software Design and Engineering](https://github.com/Alexa173/CS-499#4-software-design-and-engineering)
     - [Artifact One](https://github.com/Alexa173/CS-499/blob/main/README.md#artifact-one)
     - [Milestone Two Narrative](https://github.com/Alexa173/CS-499/edit/main/README.md#narrative)
-5. [Algorithms and Datastructures]()
-    - [Artifact Two]()
+5. [Algorithms and Datastructures](https://github.com/Alexa173/CS-499#5-algorithms-and-datastructures)
+    - [Artifact Two](https://github.com/Alexa173/CS-499?tab=readme-ov-file#artifact-two)
     - [Milestone Three]()
 6. Databases
 9. Enhancement Three Narrative
