@@ -3,7 +3,7 @@
 
 ## Table of Contents
 1. [Overview](https://github.com/Alexa173/CS-499/blob/main/README.md#1-overview)
-   - [Introduction](https://github.com/Alexa173/CS-499/edit/main/README.md#introduction)
+   - [Introduction](https://github.com/Alexa173/CS-499?tab=readme-ov-file#introduction)
    - [Mission Statement](https://github.com/Alexa173/CS-499/edit/main/README.md#introduction)
 2. [Self-Assessment](https://github.com/Alexa173/CS-499/blob/main/README.md#2-self-assessment)
    - [Collaborating in a Team Environment](https://github.com/Alexa173/CS-499/edit/main/README.md#collaborating-in-a-team-environment)
