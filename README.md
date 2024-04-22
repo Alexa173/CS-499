@@ -18,9 +18,9 @@
 5. [Algorithms and Datastructures](https://github.com/Alexa173/CS-499#5-algorithms-and-datastructures)
     - [Artifact Two](https://github.com/Alexa173/CS-499?tab=readme-ov-file#artifact-two)
     - [Milestone Three Narrative](https://github.com/Alexa173/CS-499/tree/main#narrative-1)
-6. [Databases]()
-    - [Artifact Three]()
-    - [Milestone Four Narrative]()
+6. [Databases](https://github.com/Alexa173/CS-499/tree/main?tab=readme-ov-file#6-databases)
+    - [Artifact Three](https://github.com/Alexa173/CS-499/tree/main?tab=readme-ov-file#artifact-three)
+    - [Milestone Four Narrative](https://github.com/Alexa173/CS-499/tree/main?tab=readme-ov-file#narrative-2)
 
 
 ### 1. Overview
