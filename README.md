@@ -162,7 +162,7 @@ Here are the list of enhancements:
 
 #### Enhancements
 
-1. Update the structure to encorporate the api. This folder is called app_api.
+1. Update the structure to incorporate the api. This folder is called app_api.
 2. Create a Mongoose schema
 3. Add a router for the API to function
 4. Wire up the route to the controller
