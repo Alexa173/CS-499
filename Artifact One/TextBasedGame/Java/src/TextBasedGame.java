@@ -171,8 +171,6 @@ public class TextBasedGame {
             if(action.equals("get")) {               
                 artifact = item.get(currentPlanet);                
                 // if player does not enter correct artifact
-                System.out.println(direction);
-                System.out.println(artifact);
                 if (!direction.equals(artifact)){
                     // print error
                     System.out.println("*Invalid Item*");
