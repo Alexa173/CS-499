@@ -167,7 +167,7 @@ Here are the list of enhancements:
 3. Add a router for the API to function
 4. Wire up the route to the controller
 
-Here is screenshot of me testing the api call and retrieving all trips in Postman:
+Here is screenshot of me testing the api call and retrieving all trips using Postman:
 
 <img width="1440" alt="api call displaying all trips" src="https://github.com/Alexa173/CS-499/assets/131563077/d7394bf8-d060-43d8-9c80-9ea9ca94692b">
 
