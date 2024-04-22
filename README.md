@@ -64,7 +64,11 @@ Each of these artifacts aligns with and effectively addresses the five course ou
 The following sections contain Artifact One, Two, and Three. Following each section will contain a link to the artifact, the enhancements that were performed, the final product, and a narrative reflecting on the enhancement process. 
 
 ### 3. Code Review
-This section contais my code review video. This is the first milestone. Here is a link to the video.
+This section contais my code review video. This is the first milestone. This project is aligned with the course outcome: 
+
+- Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
+
+Here is a link to the video.
 
 [Code Review Video]()
 
