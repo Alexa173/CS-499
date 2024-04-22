@@ -61,7 +61,7 @@ In Artifact Three, I develop a security mindset by incorporating a RESTful API t
 
 Each of these artifacts aligns with and effectively addresses the five course outcomes established for my Capstone project. These outcomes serve as benchmarks to evaluate the depth and breadth of my learning and practical application of skills throughout the course.
 
-The following sections contain Artifact One, Two, and Three. Following each artifact will be a narrative reflecting on the enhancement process. Each section will contain a link to its respective project. 
+The following sections contain Artifact One, Two, and Three. Following each section will contain a link to the artifact, the enhancements that were performed, the final product, and a narrative reflecting on the enhancement process. 
 
 ### 3. Code Review
 This section contais my code review video. This is the first milestone. Here is a link to the video.
