@@ -74,7 +74,26 @@ Enhancements
 
 This artifact is a text-based game that was originally developed in Python. The Python version uses a dictionary to create a map of neighboring planets that the player must visit while collecting its artifacts. The Java version uses nested HashMaps to create the map. The player must enter the correct command to be able to move between the rooms and collect items. I also included nesessary checks to prevent the progarm from crashing when the user enters invalid informaton. Here is a list of enhancements:
 
-1. 
+1. Better error message display (Python on the left, Java on the right)
+   
+   <img width="176" alt="Error message display python" src="https://github.com/Alexa173/CS-499/assets/131563077/05d9334d-13aa-4b02-a3ba-6899f6ea0a0e">
+   <img width="176" alt="Error message display java" src="https://github.com/Alexa173/CS-499/assets/131563077/9f6f230d-fae7-4004-b5d9-f7c6a95ebc21">
+
+
+2. A check to verify if input exsists in the data structure that holds the items
+
+   <img width="183" alt="item not found in items dictionary python" src="https://github.com/Alexa173/CS-499/assets/131563077/058c2a8b-e1fb-44e1-8323-2d499df96e55">
+   <img width="183" alt="not found in items hashmap java" src="https://github.com/Alexa173/CS-499/assets/131563077/7a2f9a3c-2f4b-4166-ae27-b4f1bb4bb55f">
+
+
+3. A check to verify if the input is at least 2
+
+   <img width="737" alt="input is less than 2 python" src="https://github.com/Alexa173/CS-499/assets/131563077/bb623e22-fb96-4cbe-8c77-71b4c0629a23">
+   <img width="201" alt="input is less than 2 java" src="https://github.com/Alexa173/CS-499/assets/131563077/adcd1934-a70e-446d-9b97-ba1e59ee915d">
+
+Final Product: (Java)
+
+<img width="593" alt="Screenshot 2024-04-21 at 7 27 25 PM" src="https://github.com/Alexa173/CS-499/assets/131563077/881201ad-9196-4283-9905-14d286a8dfeb">
 
 Here is a link to the project. 
 
