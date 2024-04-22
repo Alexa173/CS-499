@@ -14,17 +14,17 @@
 3. [Code Review](https://github.com/Alexa173/CS-499/blob/main/README.md#3-code-review)
 4. [Software Design and Engineering](https://github.com/Alexa173/CS-499#4-software-design-and-engineering)
     - [Artifact One](https://github.com/Alexa173/CS-499/blob/main/README.md#artifact-one)
-    - [Enhancement]()
-    - [Final Product]()
+    - [Enhancements](https://github.com/Alexa173/CS-499/tree/main#enhancements)
+    - [Final Product](https://github.com/Alexa173/CS-499/tree/main#final-product-java)
     - [Milestone Two Narrative](https://github.com/Alexa173/CS-499/tree/main#narrative)
 5. [Algorithms and Datastructures](https://github.com/Alexa173/CS-499#5-algorithms-and-datastructures)
     - [Artifact Two](https://github.com/Alexa173/CS-499?tab=readme-ov-file#artifact-two)
-    - [Enhancement]()
-    - [Final Product]()
+    - [Enhancements](https://github.com/Alexa173/CS-499/tree/main#enhancements-1)
+    - [Final Product](https://github.com/Alexa173/CS-499/tree/main#final-product)
     - [Milestone Three Narrative](https://github.com/Alexa173/CS-499/tree/main#narrative-1)
 6. [Databases](https://github.com/Alexa173/CS-499/tree/main?tab=readme-ov-file#6-databases)
     - [Artifact Three](https://github.com/Alexa173/CS-499/tree/main?tab=readme-ov-file#artifact-three)
-    - [Enhancement]()
+    - [Enhancements]()
     - [Final Product]()
     - [Milestone Four Narrative](https://github.com/Alexa173/CS-499/tree/main?tab=readme-ov-file#narrative-2)
 
@@ -143,6 +143,29 @@ In my narrative, I discuss the enhancement process. You can access this below. T
 ### 6. Databases
 
 #### Artifact Three
+
+This section covers Artifact 3. This is my fourth milestone and the third enhancement. This project is aligned with course outcome:
+
+- Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
+
+Artifact 3 is a single-page application that uses a MEAN stack for develpement. Here, I create a SPA for a ficticious client named Travlr. The original code uses Express and Node are used to build a static SPA. The client makes HTTP requests to fetch static HTML content.  The updated architecture of the Travlr GetAways is based on a MEAN stack for its development. A MEAN stack is composed of a Rest API, JSON files, and a single-page application. Restful API provides a stateless interface for the database. On the customer-facing side of the application, the user enters data or makes a click on the website. In an Angular SPA, there is a collection of URLs that fetch data when prompted by the user. 
+
+Here is what the static HTML page looks like:
+
+<img width="500" alt="Static HTML" src="https://github.com/Alexa173/CS-499/assets/131563077/e0be7ba6-3d5b-4e29-b7fc-fe9a05692b46">
+
+Here are the list of enhancements:
+
+#### Enhancements
+
+1. Update the structure to encorporate the api. This folder is called app_api.
+2. Create a Mongoose schema
+3. Add a router for the API to function
+4. Wire up the route to the controller
+
+Final Product:
+
+Here is the link to the project:
 
 [Artifact Three](https://github.com/Alexa173/CS-499/tree/main/Artifact%20Three)
 
