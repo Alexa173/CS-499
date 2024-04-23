@@ -183,7 +183,7 @@ Final Product:
 
 <img width="1440" alt="final product" src="https://github.com/Alexa173/CS-499/assets/131563077/78725290-ebc6-46f6-96b9-f835cc1387b2">
 
-The final project may not look very visually appealing, but it is the early stages of implementing a RESTful API to retrieve data from the database in MongoDB.
+The final project may not look visually appealing, but it is the early stages of implementing a RESTful API to retrieve data from the database in MongoDB.
 
 Here is the link to the project:
 
